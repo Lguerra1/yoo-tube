@@ -20,3 +20,5 @@ const VideoDetail = (props) => {
 }
 
 export default VideoDetail
+
+
